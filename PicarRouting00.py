@@ -7,6 +7,7 @@ import math
 import time
 import numpy as np
 import matplotlib.pyplot as plt
+import sign_detector as sd
 
 # Initialize motors with respective GPIO pin numbers
 #left_front_motor = Motor(pwm_pin=1, dir_pin=2)
